@@ -24,7 +24,23 @@ Step 5: Then now go to IAM and create the group
 ![image](https://user-images.githubusercontent.com/85877645/122098090-030e0500-ce2e-11eb-97cd-1c0d6b9697e6.png)
 
 Step 6: 
+Given the group name: MyQueueGroup
+given the access: AmazonEC2FullAccess and AWSSSODirectoryAdministrator and create the group 
+
 ![image](https://user-images.githubusercontent.com/85877645/122098322-54b68f80-ce2e-11eb-8723-1cfd14cc5152.png)
+
+![image](https://user-images.githubusercontent.com/85877645/122098627-b676f980-ce2e-11eb-97d6-609dad45cc71.png)
+
+Step 7 : now go to user and create the new user 
+
+![image](https://user-images.githubusercontent.com/85877645/122098825-f2aa5a00-ce2e-11eb-9500-f07eafe3ff99.png)
+
+Now attache the user with the group and click next, next and create user button.
+
+![image](https://user-images.githubusercontent.com/85877645/122098997-1ff70800-ce2f-11eb-871a-4c7769807373.png)
+
+Store Take the Access key ID and Secret access key 
+
 
 
 
